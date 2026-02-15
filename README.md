@@ -1,6 +1,6 @@
 # 🛒 Blinkit Grocery Sales Dashboard
 
-### Power BI Business Intelligence Project
+### Power BI Project
 
 ------------------------------------------------------------------------
 
